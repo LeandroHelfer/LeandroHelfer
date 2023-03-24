@@ -24,7 +24,7 @@ Visando migrar para a área de Developer como Front-End
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHelfer&layout=compact&langs_count=7&theme=dracula)](https://github.com/LeandroHelfer/github-readme-stats) <br>
 
-![Snake animation](https://github.com/LeandroHelfer/LeandroHelfer/blob/output/github-contribution-grid-snake.svg)
+
 
 
           
